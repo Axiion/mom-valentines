@@ -19,7 +19,7 @@ export default function Home() {
         <title>happy valentine's day, mom!</title>
         <meta name="description" content="Coded and built with love, Matt" />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
-        <link rel="icon" href="/favicon.ico" />
+        <link rel="icon" href="/valicon.ico" />
       </Head>
       <main className="bg-[#1e1e2e] overflow-hidden relative">
         <embed
