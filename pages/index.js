@@ -53,6 +53,10 @@ export default function Home() {
                   happy valentine's day!
                 </p>
                 <p className="text-2xl py-5">happy valentine's day!</p>
+                <p className="text-2xl absolute onset-0 text-[#ED6363] py-5 rounded-lg blur">
+                  feb 14, 2023
+                </p>
+                <p className="text-2xl py-5">feb 14, 2023</p>
                 <p className="absolute onset-0 text-[#ED6363] py-5 rounded-lg blur">
                   my valentine's gift for you is this simple website that i
                   made,
